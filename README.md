@@ -1,4 +1,3 @@
-This repository is to connect with our community.  
-It is used for [Issues](https://github.com/inseri-swiss/inseri-swiss/issues) and [Discussions](https://github.com/inseri-swiss/inseri-swiss/discussions).  
+# DISCONTINUED
 
-The inseri core for WordPress plugin is available at https://github.com/inseri-swiss/inseri-core-wp.
+The [Issues](https://github.com/inseri-swiss/inseri-core-wp/issues) and the [Discussions](https://github.com/inseri-swiss/inseri-core-wp/discussions) are at https://github.com/inseri-swiss/inseri-core-wp .
